@@ -1,0 +1,8 @@
+19:44:17.530 [main] INFO  api.test.UserTests2ReadDataFromPropertiesFile - **************User is Created****************
+19:44:17.545 [main] INFO  api.test.UserTests2ReadDataFromPropertiesFile - **************Reading user info****************
+19:44:18.951 [main] INFO  api.test.UserTests2ReadDataFromPropertiesFile - **************User info displayed****************
+19:44:18.951 [main] INFO  api.test.UserTests2ReadDataFromPropertiesFile - **************Updating user info****************
+19:44:21.857 [main] INFO  api.test.UserTests2ReadDataFromPropertiesFile - **************User info Updated****************
+19:44:23.247 [main] INFO  api.test.UserTests2ReadDataFromPropertiesFile - **************Validated Updated info****************
+19:44:23.247 [main] INFO  api.test.UserTests2ReadDataFromPropertiesFile - **************User info deleting****************
+19:44:24.606 [main] INFO  api.test.UserTests2ReadDataFromPropertiesFile - **************User info deleted****************
